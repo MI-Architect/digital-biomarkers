@@ -6,6 +6,9 @@ __pycache__/
 # C extensions
 *.so
 
+# Folder
+Dataset_BUSI_with_GT/
+
 # Distribution / packaging
 .Python
 build/
